@@ -1,6 +1,0 @@
-{
-  "name": "Veo 3 Prompt Generator by IGO FIRNANDES",
-  "description": "Aplikasi canggih untuk membantu pengguna membuat prompt yang terstruktur, detail, dan efektif untuk model AI generatif video Veo 3. Aplikasi ini menggunakan Gemini API untuk mengembangkan input pengguna menjadi prompt naratif dalam Bahasa Indonesia, kemudian menerjemahkannya ke Bahasa Inggris, dengan tetap mempertahankan bagian narasi dalam bahasa aslinya. Menyediakan input untuk subjek, aksi, ekspresi, lokasi, waktu, gerakan kamera, pencahayaan, gaya video, suasana, suara/musik, narasi, dan detail tambahan.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
